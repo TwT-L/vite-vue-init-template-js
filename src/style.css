@@ -1,0 +1,6 @@
+svg {
+  vertical-align: initial;
+}
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
